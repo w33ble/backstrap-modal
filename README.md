@@ -10,16 +10,16 @@ The only file of real import is `coffee/modal.coffee` (or the transpiled `js/mod
 
 # How do I use it?
 
-Check `coffee/main.coffee` of `js/main.js` for a quick example.
+Check `coffee/main.coffee` (or `js/main.js`) for a quick example.
 
 The bootstrap-modal is a jQuery plugin, so you simple include it and then you can create a modal out of any element. Refer to [their docs](http://twitter.github.io/bootstrap/javascript.html#modals) for usage examples.
 
 This wrapper follows the default bootstrap-modal methods, so using it is pretty straighforward.
 
-Custom methods are as follows:
+Methods are as follows:
 
 <table>
-  <tr><td>Method</td><td>Description</td></tr>
+  <tr><td>**Method**</td><td>**Description**</td></tr>
   <tr><td>show</td><td>Shows the modal</td></tr>
   <tr><td>hide</td><td>Hides the modal</td></tr>
   <tr><td>toggle</td><td>Toggles show/hide on the modal</td></tr>
