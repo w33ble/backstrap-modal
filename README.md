@@ -19,7 +19,7 @@ This wrapper follows the default bootstrap-modal methods, so using it is pretty 
 Methods are as follows:
 
 <table>
-  <tr><td>**Method**</td><td>**Description**</td></tr>
+  <tr><td><em>Method</em></td><td><em>Description</em></td></tr>
   <tr><td>show</td><td>Shows the modal</td></tr>
   <tr><td>hide</td><td>Hides the modal</td></tr>
   <tr><td>toggle</td><td>Toggles show/hide on the modal</td></tr>
